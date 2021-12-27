@@ -1,0 +1,6 @@
+{"db_type": "mysql",
+"con": "pymysql",
+"host": "localhost",
+"usr": "USER_NAME",
+"db": "DATABASE_NAME",
+"pw": "USER_PASSWORD"}
